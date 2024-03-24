@@ -75,10 +75,10 @@ const Home = () => {
     >
       <div className=" max-w-screen-lg mx-auto flex flex-col md:flex-row items-center justify-center h-full px-4">
         <div className="flex flex-col justify-center h-full">
-          <h2 className="text-4xl sm:text-5xl font-bold text-white">
-            I'm Sandali <br></br>
-            SE Undergraduate
-          </h2>
+        <h2 className="text-lg font-bold text-white">
+    I'm Sandali <br></br>
+    SE Undergraduate
+</h2>
           <p className="text-gray-500 py-4 max-w-md">
           I am an enthusiastic undergraduate student 
           pursuing a degree in Software Engineering . 
