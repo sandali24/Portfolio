@@ -84,6 +84,7 @@ const Portfolio = () => {
     {
       id: 1,
       src: SDGP,
+      
     },
     {
       id: 2,
@@ -122,9 +123,9 @@ const Portfolio = () => {
                 className="rounded-md duration-200 hover:scale-105"
               />
               <div className="flex items-center justify-center">
-                <button className="px-6 py-3 w-1/2 m-4 duration-200 hover:scale-105">
+                {/* <button className="px-6 py-3 w-1/2 m-4 duration-200 hover:scale-105">
                   Code
-                </button>
+                </button> */}
               </div>
             </div>
           ))}
